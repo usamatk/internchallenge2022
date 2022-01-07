@@ -14,5 +14,6 @@ Question 1
 
 &nbsp;&nbsp;&nbsp;For this dataset, I decided to find the total sum of the order_amount column and the total_items column. The sum of order_amount I got was 15725640 and the sum &nbsp;&nbsp;&nbsp;for total_items was 43936. Next to find the AOV, I divide the sum of order amount by the sum of total items, i.e. 15725640/43936 which gives an AOV of 357.92. &nbsp;&nbsp;&nbsp;Another way to get this value would be to get the mean of order amount and mean of total items and divide those, which will lead to the same answer.
 
-(c) What is its value?
+(c) What is its value? 
+
 &nbsp;&nbsp;&nbsp;The AOV value is $357.92
