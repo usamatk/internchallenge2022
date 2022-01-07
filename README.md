@@ -8,11 +8,11 @@ Question 1
 
 (a) Think about what could be going wrong with our calculation. Think about a better way to evaluate this data. 
 
-The initial AOV value of 3145.13 was found by getting the mean value of the order_amount column. This is problamatic as some order amounts go up to hundreds of thousands and this also doesn't take into account the number of items also purchased.
+&nbsp;The initial AOV value of 3145.13 was found by getting the mean value of the order_amount column. This is problamatic as some order amounts go up to hundreds of thousands and this also doesn't take into account the number of items also purchased.
 
 (b) What metric would you report for this dataset?
 
-For this dataset, I decided to find the total sum of the order_amount column and the total_items column. The sum of order_amount I got was 15725640 and the sum for total_items was 43936. Next to find the AOV, I divide the sum of order amount by the sum of total items, i.e. 15725640/43936 which gives an AOV of 357.92. Another way to get this value would be to get the mean of order amount and mean of total items and divide those, which will lead to the same answer.
+&nbsp;For this dataset, I decided to find the total sum of the order_amount column and the total_items column. The sum of order_amount I got was 15725640 and the sum for total_items was 43936. Next to find the AOV, I divide the sum of order amount by the sum of total items, i.e. 15725640/43936 which gives an AOV of 357.92. Another way to get this value would be to get the mean of order amount and mean of total items and divide those, which will lead to the same answer.
 
-(c) 
-The AOV value is $357.92
+(c) What is its value?
+&nbsp;The AOV value is $357.92
